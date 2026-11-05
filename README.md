@@ -74,6 +74,10 @@ More project repositories and documentation will be added as they are prepared f
 
 ---
 
+**[Look at my Portfolio →](https://anas-islam-portfolio.pages.dev/)**
+
+
+
 ## 🎯 Current Learning Interests
 
 - Advanced SQL and Business Intelligence
