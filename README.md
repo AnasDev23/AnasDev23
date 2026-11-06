@@ -1,111 +1,128 @@
 # Hi, I'm Anas Islam 👋
 
-### Data & Business Intelligence | Python Developer | AI/ML Enthusiast
+### Business Intelligence Executive | Data Analyst | Python Developer | AI/ML Enthusiast
 
-I'm a **BS Information Technology graduate** interested in turning data into useful insights and building practical software solutions.
+I'm a **Business Intelligence Executive at IMARAT Group of Companies** and a BS Information Technology graduate passionate about transforming raw data into meaningful business insights and building practical software solutions.
 
-I work on projects involving data analytics, business intelligence, Python development, SQL databases, machine learning, and web applications. I enjoy learning by building complete projects and solving real-world problems.
+My professional experience and projects span Business Intelligence, data analytics, dashboard development, Python automation, SQL databases, Machine Learning, Computer Vision, and web application development.
 
-- 📊 Interested in Data Analytics and Business Intelligence
-- 🐍 Building with Python, Pandas, SQL and Streamlit
-- 🤖 Exploring Machine Learning and Computer Vision
-- 💻 Interested in software and web application development
-- 🌱 Continuously learning and improving through practical projects
+I enjoy solving real-world problems through data, developing end-to-end projects, and continuously expanding my technical expertise.
+
+---
+
+## 💼 Professional Experience
+
+### Business Intelligence Executive — IMARAT Group of Companies
+📍 Islamabad, Pakistan | **November 6, 2026 – Present**
+
+Promoted from BI Intern to Business Intelligence Executive within the Business Intelligence Department.
+
+**Professional Focus:**
+- Business Intelligence and data-driven decision support.
+- Data analysis, reporting, and visualization.
+- Power BI dashboard development and business reporting.
+- SQL-based data management and analytical queries.
+- Python-based data processing and automation.
+- Business performance analysis and KPI monitoring.
+
+### BI Intern — IMARAT Group of Companies
+📍 Islamabad, Pakistan | **September 7, 2026 – November 5, 2026**
+
+Started my professional journey at IMARAT, gaining practical experience in Business Intelligence, data analytics, reporting, and business data workflows.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-**Programming Languages**
+### Programming Languages
+Python · SQL · JavaScript · TypeScript · HTML5 · CSS3
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Data Analytics & Business Intelligence
+Power BI · DAX · Pandas · NumPy · Streamlit · Plotly · Microsoft SQL Server · Microsoft Excel
 
-**Data Analytics & Business Intelligence**
+### AI & Machine Learning
+Scikit-learn · PyTorch · Computer Vision · Machine Learning · Deep Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### Web Development
+React · Bootstrap · JavaScript · Django · WordPress · Shopify
 
-**Development & Tools**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+### Development Tools
+Git · GitHub · VS Code · PyCharm · SQL Server Management Studio · Google Colab · Android Studio
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### Retail Intelligence & Business Analytics Platform
+### 📊 Retail Intelligence & Business Analytics Platform
 
-An end-to-end retail analytics project built using Python, SQL Server, Pandas, Streamlit and Plotly.
+An end-to-end retail analytics solution built using Python, SQL Server, Pandas, Streamlit, and Plotly.
 
 - Worked with the real UCI Online Retail II transaction dataset.
 - Developed a Python data cleaning and preparation pipeline.
 - Designed a SQL Server analytical database.
-- Created SQL queries, analytical views and data-quality checks.
-- Built an interactive dashboard for sales, products, customers, countries and operations.
+- Created SQL queries, analytical views, and data-quality checks.
+- Built an interactive dashboard for sales, products, customers, countries, and operations.
 
-**[Explore the project repository →](https://github.com/AnasDev23/retail-intelligence-analytics)**
+### ⚙️ BI Automation Project
+
+A Business Intelligence automation project focused on streamlining data preparation, analytical workflows, and reporting processes.
+
+- Automated data preparation and processing workflows.
+- Applied Python and SQL for data handling and analysis.
+- Focused on improving reporting efficiency and accessibility.
+
+**Technologies:** Python · SQL · Pandas · Power BI
+
+### 🤖 AuthenticVision AI — Real vs AI Image Detector
+
+An AI-based image classification project exploring the detection of real versus AI-generated images using Machine Learning and Computer Vision.
+
+**Technologies:** Python · PyTorch · Computer Vision · Machine Learning
+
+### 🚦 Traffix — Adaptive Traffic Signal System
+
+An academic final-year project focused on intelligent traffic management and adaptive traffic signal control.
+
+### ⚽ EPL Match Prediction
+
+A Machine Learning project exploring football match data, predictive modeling, and sports analytics.
+
+More projects, source code, and technical documentation are available in my GitHub repositories.
 
 ---
 
-## 💡 Other Areas of Project Work
+## 🎯 Current Learning & Development
 
-I'm also developing and exploring projects in:
-
-- **AuthenticVision AI** — Real-versus-AI-generated image classification and computer vision.
-- **BI Automation** — Automating data preparation, analysis and reporting workflows.
-- **Traffix** — Adaptive traffic signal system developed as an academic final-year project.
-- **EPL Match Prediction** — Applying machine learning to football match data.
-
-More project repositories and documentation will be added as they are prepared for public release.
+- Advanced SQL, Power BI, and DAX.
+- Business Intelligence and data engineering.
+- Machine Learning and Computer Vision.
+- Python automation and ETL development.
+- Cloud technologies and deployment.
+- Full-stack web development.
 
 ---
 
-**[Look at my Portfolio →](https://anas-islam-portfolio.pages.dev/)**
+## 📈 Professional Interests
 
-
-
-## 🎯 Current Learning Interests
-
-- Advanced SQL and Business Intelligence
-- Machine Learning and Computer Vision
-- Python automation and data engineering
-- Cloud technologies and deployment
-- Full-stack web development
+- Business Intelligence & Analytics
+- Data Engineering & Automation
+- Artificial Intelligence & Machine Learning
+- Predictive Analytics
+- Data Visualization & Reporting
+- Software Development
+- Technology-driven Business Solutions
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with developers, data professionals and people working on practical technology projects.
+I'm always interested in connecting with data professionals, developers, recruiters, and technology enthusiasts.
 
-<p>
-  <a href="https://www.linkedin.com/in/anas-islam-it/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/AnasDev23">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:anasislam.it@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/anas-islam-it/)
+- **GitHub:** [AnasDev23](https://github.com/AnasDev23)
+- **Email:** [anasislam.it@gmail.com](mailto:anasislam.it@gmail.com)
+- **Portfolio:** [Visit My Portfolio](YOUR_PORTFOLIO_URL)
 
 ---
 
-<p align="center">
-  <i>Learning continuously. Building practically. Improving with every project.</i>
-</p>
+⭐ *Learning continuously. Building practically. Turning data into insights.*
