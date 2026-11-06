@@ -121,7 +121,7 @@ I'm always interested in connecting with data professionals, developers, recruit
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/anas-islam-it/)
 - **GitHub:** [AnasDev23](https://github.com/AnasDev23)
 - **Email:** [anasislam.it@gmail.com](mailto:anasislam.it@gmail.com)
-- **Portfolio:** [Visit My Portfolio](YOUR_PORTFOLIO_URL)
+- **Portfolio:** [Visit My Portfolio](https://anas-islam-portfolio.pages.dev/)
 
 ---
 
